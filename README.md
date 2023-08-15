@@ -117,3 +117,6 @@ As tabelas "Livros", "Autores", "Categorias", "Editoras" e "EncontrarPublicacao"
 Contribuições são bem-vindas! Sinta-se à vontade para sugerir melhorias, correções ou novas funcionalidades para este projeto.
 
 ## Licença
+
+![Exemplo de Imagem](https://drive.google.com/file/d/1NOi-pHbZvU7J2mGJI79Q2apGZXoWzIgE/view)
+
