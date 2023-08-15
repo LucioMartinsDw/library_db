@@ -118,5 +118,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para sugerir melhorias, cor
 
 ## Licença
 
-![Exemplo de Imagem](https://drive.google.com/file/d/1NOi-pHbZvU7J2mGJI79Q2apGZXoWzIgE/view)
+![Exemplo de Imagem](https://drive.google.com/drive/my-drive)
 
